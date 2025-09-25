@@ -10,7 +10,7 @@
 </script>
 
 <Hero
-	title="Transform field operations from chaos to precision"
+	title="From chaos to complete control"
 	subtitle="Stop wasting 2-3 hours daily on inefficient routing. Our intelligent platform combines route optimization with real-time GPS validation, turning guesswork into precise execution for field service teams."
 	imageSrc="/generated/image-candid-documentary-style-photograph-of-a.webp"
 	centered={false}
