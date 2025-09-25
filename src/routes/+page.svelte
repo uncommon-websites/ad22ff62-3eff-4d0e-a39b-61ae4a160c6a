@@ -90,4 +90,21 @@
 	]}
 />
 <AboutTeaser generating />
-<CallToAction generating />
+<CallToAction
+	title="Put every route on autopilot"
+	subtitle="Stop wasting hours. Start seeing results."
+	description="From first stop to final proof of delivery, RouteWise keeps your day running smoothly—without the guesswork, delays, or driver pushback."
+	imageSrc="/generated/image-happy-field-service-manager-black-woman-.webp"
+	callsToAction={[
+		{
+			href: "/",
+			label: "Start saving hours with a free trial",
+			variant: "primary"
+		},
+		{
+			href: "/",
+			label: "Book demo",
+			variant: "secondary"
+		}
+	]}
+/>
