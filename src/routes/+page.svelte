@@ -27,11 +27,7 @@
 
 <Summary
 	title="Built for field operations that need more than just Google Maps"
-<<<<<<< HEAD
-	text="RouteWise combines web-based planning, mobile execution, and GPS tracking into one connected platform. We serve field service managers at mid-size companies who need to eliminate daily routing chaos and gain real-time visibility into job completion. Plan smarter routes in minutes, validate jobs in real time, and give your field team the tools to execute with precision—without the daily fire drills."
-=======
 	text="RouteWise combines web-based planning, mobile execution, and GPS tracking into one connected platform. Field service managers at mid-size companies use our intelligent route optimization to eliminate 2-3 hours of daily waste from inefficient routing. Plan, dispatch, and confirm every job with real-time visibility—from the first route to the final stop."
->>>>>>> b8f8cdbfd86159e7ee7e6123f3098214218352bc
 />
 
 <Testimonials
@@ -93,7 +89,7 @@
 		}
 	]}
 />
-<AboutTeaser generating />
+<AboutTeaser />
 <CallToAction
 	title="Put every route on autopilot"
 	subtitle="Stop wasting hours. Start seeing results."
