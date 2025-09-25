@@ -1,5 +1,9 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
+<<<<<<< HEAD
 <!-- Updated: 2025-09-25T14:08:56.160Z -->
+=======
+<!-- Updated: 2025-09-25T14:42:13.548Z -->
+>>>>>>> b8f8cdbfd86159e7ee7e6123f3098214218352bc
 
 # Current Todo List State
 
@@ -9,6 +13,7 @@
 - [x] Ensure Hero component has centered = false prop as specified
 - [x] Verify changes align with regular_left hero template style
 - [x] Run comprehensive error check and fix all issues
+<<<<<<< HEAD
 - [x] Call update_brand_variables to generate RouteWise brand variables automatically
 - [x] View current app.html configuration
 - [x] View current theme.css configuration
@@ -35,3 +40,16 @@
 - [ ] Update testimonials component with new content and images
 - [ ] Remove any generating props from the component
 - [ ] Final design system compliance check - verify design system classes prioritized over Tailwind, NO shadows, NO custom CSS, NO arbitrary values
+=======
+- [ ] Examine current AboutTeaser component structure and content
+- [ ] Generate professional founder headshot image
+- [ ] Write authentic founder story copy that builds connection
+- [ ] Update AboutTeaser component with new content and remove generating prop
+- [ ] Verify component integration on home page
+- [ ] Final design system compliance check
+- [x] Generate authentic team/company culture image for route optimization company
+- [x] Create mission-driven hero copy focusing on 'why we exist' for field operations
+- [x] Update SecondaryHero component call with new content and image
+- [x] Remove all generating props from the updated component
+- [x] Final design system compliance check - verify design system classes used appropriately
+>>>>>>> b8f8cdbfd86159e7ee7e6123f3098214218352bc

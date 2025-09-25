@@ -27,60 +27,88 @@
 
 <Summary
 	title="Built for field operations that need more than just Google Maps"
+<<<<<<< HEAD
 	text="RouteWise combines web-based planning, mobile execution, and GPS tracking into one connected platform. We serve field service managers at mid-size companies who need to eliminate daily routing chaos and gain real-time visibility into job completion. Plan smarter routes in minutes, validate jobs in real time, and give your field team the tools to execute with precision—without the daily fire drills."
+=======
+	text="RouteWise combines web-based planning, mobile execution, and GPS tracking into one connected platform. Field service managers at mid-size companies use our intelligent route optimization to eliminate 2-3 hours of daily waste from inefficient routing. Plan, dispatch, and confirm every job with real-time visibility—from the first route to the final stop."
+>>>>>>> b8f8cdbfd86159e7ee7e6123f3098214218352bc
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maria Gonzalez",
+			position: "Field Service Manager",
+			company: "ProTech Solutions",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We cut our daily route planning from 45 minutes to just 8 minutes. The GPS validation eliminated customer disputes about missed appointments, and our team completed 23% more service calls per day.",
+			image: "/generated/image-natural-light-corporate-headshot-portrai.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Marcus Williams",
+			position: "Operations Director",
+			company: "Midwest Delivery Co",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Real-time tracking reduced our fuel costs by $28,000 annually and eliminated overtime from inefficient routing. Our drivers love the mobile app - it's simple and actually saves them time on the road.",
+			image: "/generated/image-professional-headshot-of-a-confident-afr.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Linda Chen",
+			position: "Fleet Coordinator",
+			company: "Summit Logistics",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The integrated platform gave us complete visibility into our 50-vehicle fleet. We reduced customer complaints by 67% and increased on-time deliveries from 78% to 94% in just three months.",
+			image: "/generated/image-professional-headshot-of-an-african-amer.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Turn chaos into precision"
+	subtitle="Everything you need to optimize field operations and eliminate routing inefficiencies"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Intelligent route optimization",
+			description: "Cut 2-3 hours of daily inefficiency with AI-powered routing that adapts to real-time traffic, customer priorities, and technician skills."
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Real-time GPS validation",
+			description: "Know exactly where your team is and when jobs are completed with automated GPS tracking that provides instant proof of service delivery."
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Complete execution visibility",
+			description: "Bridge the gap between planning and reality with live updates that show route progress, delays, and completion status across your entire fleet."
+		},
+		{
+			title: "Multi-device synchronization",
+			description: "Plan routes on web, execute on mobile, and track with GPS hardware—all synchronized instantly across your entire operation."
+		},
+		{
+			title: "Driver-friendly mobile app",
+			description: "Reduce driver resistance with an intuitive mobile interface that makes route following simple while automatically documenting job completion."
+		},
+		{
+			title: "Performance analytics dashboard",
+			description: "Transform route data into actionable insights with detailed analytics that identify efficiency opportunities and measure team performance improvements."
 		}
 	]}
 />
 <AboutTeaser generating />
-<CallToAction generating />
+<CallToAction
+	title="Put every route on autopilot"
+	subtitle="Stop wasting hours. Start seeing results."
+	description="From first stop to final proof of delivery, RouteWise keeps your day running smoothly—without the guesswork, delays, or driver pushback."
+	imageSrc="/generated/image-happy-field-service-manager-black-woman-.webp"
+	callsToAction={[
+		{
+			href: "/",
+			label: "Start saving hours with a free trial",
+			variant: "primary"
+		},
+		{
+			href: "/",
+			label: "Book demo",
+			variant: "secondary"
+		}
+	]}
+/>
