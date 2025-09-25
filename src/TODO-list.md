@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-09-25T14:14:24.351Z -->
+<!-- Updated: 2025-09-25T14:42:13.548Z -->
 
 # Current Todo List State
 
@@ -15,3 +15,8 @@
 - [ ] Update AboutTeaser component with new content and remove generating prop
 - [ ] Verify component integration on home page
 - [ ] Final design system compliance check
+- [x] Generate authentic team/company culture image for route optimization company
+- [x] Create mission-driven hero copy focusing on 'why we exist' for field operations
+- [x] Update SecondaryHero component call with new content and image
+- [x] Remove all generating props from the updated component
+- [x] Final design system compliance check - verify design system classes used appropriately
