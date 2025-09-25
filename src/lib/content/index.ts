@@ -1,7 +1,7 @@
 export const CONFIG = {
-	companyName: "Company",
-	description: "Description",
+	companyName: "RouteWise",
+	description: "Transform field operations from chaotic guesswork into precise execution with intelligent route optimization and real-time GPS validation.",
 	image: "/og.png",
-	url: "https://example.com",
+	url: "https://routewise.com",
 	fontFamily: "Inter Variable"
 };

@@ -26,9 +26,8 @@
 />
 
 <Summary
-	generating
-	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	title="Built for field operations that need more than just Google Maps"
+	text="RouteWise combines web-based planning, mobile execution, and GPS tracking into one connected platform. We serve field service managers at mid-size companies who need to eliminate daily routing chaos and gain real-time visibility into job completion. Plan smarter routes in minutes, validate jobs in real time, and give your field team the tools to execute with precision—without the daily fire drills."
 />
 
 <Testimonials
