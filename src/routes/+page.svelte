@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Transform field operations from chaos to precision"
+	subtitle="Stop wasting 2-3 hours daily on inefficient routing. Our intelligent platform combines route optimization with real-time GPS validation, turning guesswork into precise execution for field service teams."
+	imageSrc="/generated/image-candid-documentary-style-photograph-of-a.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/fedex.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/ups.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/dhl.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/usps.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
